@@ -24,6 +24,7 @@
     <session id="-1286022977">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -41,7 +42,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my-app/src/app/dataservice.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="186">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -182,12 +183,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546943418700</updated>
       <workItem from="1546943426092" duration="673000" />
-      <workItem from="1547373721746" duration="1413000" />
+      <workItem from="1547373721746" duration="2337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2086000" />
+    <option name="totallyTimeSpent" value="3010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -205,7 +206,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5558546" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4064603" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -293,7 +294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/app/dataservice.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="186">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
